@@ -2,8 +2,8 @@
 <?xml-stylesheet href="/feed.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="">
   <channel>
-    <title>Zinzy Waleson Geene - RSS</title>
-    <description>Zinzy Waleson Geene is a researcher, designer, facilitator, and IndieWeb enthusiast from Amsterdam.</description>
+    <title>Lemonade the corgi - RSS</title>
+    <description>Lemonade is a corgi mix from Amsterdam. She's amazing.</description>
     <link>http://0.0.0.0:4000</link>
     <language></language>
     <copyright>http://0.0.0.0:4000/colophon/#copyright</copyright>
