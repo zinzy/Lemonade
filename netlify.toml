@@ -15,7 +15,7 @@
     [plugins.inputs]
 
     # The base url of your site (optional, default: main URL set in Netlify)
-    baseUrl = "https://zinzy.website"
+    baseUrl = "https://lemonade.waleson.us"
 
     # Path to the feed URL (optional, default: /feed.xml)
     feedPath = "/feed.xml"
