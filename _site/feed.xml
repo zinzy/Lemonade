@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/feed.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="">
+  <channel>
+    <title>Zinzy Waleson Geene - RSS</title>
+    <description>Zinzy Waleson Geene is a researcher, designer, facilitator, and IndieWeb enthusiast from Amsterdam.</description>
+    <link>http://0.0.0.0:4000</link>
+    <language></language>
+    <copyright>http://0.0.0.0:4000/colophon/#copyright</copyright>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+---
+layout: default
+--- 
+<article>
+  <header>
+    <h2>Journal</h2>
+    {{content}}
+  </header>
+  
+  <ul class="entries">
+    {% for post in site.posts %} 
+    <li> 
+      <a href="{{ post.url }}">
+        <span class="title">{{ post.title }}</span>
+        <time class="dt-published" datetime="{{ post.date | date: "%-d %b '%y" }}">{{ post.date | date: "%-d %b '%y" }}</time>
+      </a>
+    </li>
+    {% endfor %} 
+  </ul>
+</article>

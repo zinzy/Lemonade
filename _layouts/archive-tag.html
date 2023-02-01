@@ -1,0 +1,16 @@
+---
+layout: default
+--- 
+<h2 class="p-name">Things I've written about {{ page.title }}</h2>
+
+
+<ul class="entries">
+  {% for post in page.posts %} 
+  <li> 
+    <a href="{{ post.url }}">
+      <span class="title">{{ post.title }}</span>
+      <time class="dt-published" datetime="{{ post.date | date: "%-d %b '%y" }}">{{ post.date | date: "%-d %b '%y" }}</time>
+    </a>
+  </li>
+  {% endfor %} 
+</ul>
