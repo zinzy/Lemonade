@@ -4,10 +4,10 @@
   <channel>
     <title>Lemonade the corgi - RSS</title>
     <description>Lemonade is a corgi mix from Amsterdam. She's amazing.</description>
-    <link>http://0.0.0.0:4000</link>
+    <link>http://localhost:5000</link>
     <language></language>
-    <copyright>http://0.0.0.0:4000/colophon/#copyright</copyright>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <copyright>http://localhost:5000/colophon/#copyright</copyright>
+    <atom:link href="http://localhost:5000/feed.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
@@ -18,13 +18,19 @@
           
           
           <br />
-          
+          <p>A fair portion of the time I’ve invested into puppy prep so far has gone into designing this birth announcement. Since I don’t want children, I’ve embraced the idea that I will be treating my dog like one.</p>
+
+<p>Overall, week 7 is beautiful. We finally get a puppy update, which makes it official: hi ears! Apparently the ears could flop down for a bit at some point, but for now I’m just excited to put my nose in them.</p>
+
+<p>We started the McCann Dogs Puppy Essentials course after falling in love with <a href="https://www.youtube.com/@McCannDogs">their great YouTube account</a>. If you’re considering getting a puppy, check them out: they break down dog raising into small, easy-to-handle chunks, particularly for first-time dog owners. If your dog is already a bit older but just doesn’t know how to behave (hi Mary), they have stuff for that, too.</p>
+
+<p><img src="https://res.cloudinary.com/dbi2zounq/image/upload/v1677129878/Lemonade/lemmydiptych_uxdav9.png" alt="A seven-week-old brown-white corgi puppy hanging out on a couch, cradling a bone" /></p>
 
           <hr /><p><a href="mailto:?subject=Week%207:%20Oh%20hi,%20over-the-top%20birth%20announcement">Reply via email</a></p>]]>
         </description>
         <pubDate>Sun, 19 Feb 2023 00:00:00 +0100</pubDate>
-        <link>http://0.0.0.0:4000/2023/02/19/week-7/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/02/19/week-7/</guid>
+        <link>http://localhost:5000/2023/02/19/week-7/</link>
+        <guid isPermaLink="true">http://localhost:5000/2023/02/19/week-7/</guid>
         
           
         
@@ -44,8 +50,8 @@
           <hr /><p><a href="mailto:?subject=Week%203:%20Hello%20moms">Reply via email</a></p>]]>
         </description>
         <pubDate>Tue, 17 Jan 2023 00:00:00 +0100</pubDate>
-        <link>http://0.0.0.0:4000/2023/01/17/week-3/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/01/17/week-3/</guid>
+        <link>http://localhost:5000/2023/01/17/week-3/</link>
+        <guid isPermaLink="true">http://localhost:5000/2023/01/17/week-3/</guid>
         
           
         
@@ -65,8 +71,8 @@
           <hr /><p><a href="mailto:?subject=Week%201:%20Hello%20world">Reply via email</a></p>]]>
         </description>
         <pubDate>Tue, 03 Jan 2023 00:00:00 +0100</pubDate>
-        <link>http://0.0.0.0:4000/2023/01/03/week-1/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2023/01/03/week-1/</guid>
+        <link>http://localhost:5000/2023/01/03/week-1/</link>
+        <guid isPermaLink="true">http://localhost:5000/2023/01/03/week-1/</guid>
         
           
         
